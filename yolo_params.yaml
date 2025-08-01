@@ -1,0 +1,6 @@
+path: C:/Users/HP/Downloads/dataset/Output/2025-07-31-09-50-20
+train: train/images
+val: val/images
+names:
+  0: cheerios
+  1: soup
